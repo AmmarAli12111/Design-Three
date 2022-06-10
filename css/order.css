@@ -30,8 +30,8 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
     background-color: #ffffff;
-    width: 500px;
-    height: 750px;
+    width: 450px;
+    height: 700px;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
@@ -166,7 +166,7 @@ body {
 .container .card .proceed {
     background-color: #382ae1;
     color: #fff;
-    margin: 40px 65px;
+    margin: 30px 65px;
     padding: 25px;
     border-radius: 15px;
     -webkit-border-radius: 15px;
